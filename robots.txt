@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marvinraphael2001-prog.github.io/sitemap.xml
